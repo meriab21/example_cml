@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ../1x7gbsBHrvtqnZk6J_TFL3YONQ-Fl4P2d
